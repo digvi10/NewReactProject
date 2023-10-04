@@ -1,0 +1,21 @@
+.userCardMain{
+
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 7px;
+    display: flex;
+    color: black;
+    background-color: #b3b3dc;
+  
+  }
+  .cardName{
+    margin-left: 10%;
+  
+  
+  }
+  .cardPostCount{
+    margin-left: 70%;
+  }
+  

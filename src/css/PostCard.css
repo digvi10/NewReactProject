@@ -1,0 +1,13 @@
+.post_card_title{
+    margin-left: 20px;
+  
+  }
+  
+  .post_card_main{
+    margin-left: 20%;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+  }

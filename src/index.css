@@ -11,3 +11,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media (max-width: 768px) {
+  .cardPostCount {
+    margin-left: 25%;
+  }
+  .userCardMain {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .profile_page_main {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .profile_page_1,
+  .profile_page_2 {
+    flex-direction: row;
+  }
+
+  .profile_page_name,
+  .profile_page_adress,
+  .profile_page_username,
+  .profile_page_catchPhrase,
+  .profile_page_email,
+  .profile_page_address {
+    margin-left: 4%;
+  }
+
+  .profile_page_Header {
+    margin-left: 35%;
+  }
+
+  .user-profile_page_post_card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post_card_main {
+    margin-left: 5%;
+    width: 90%;
+  }
+  .profile_page_username_section,
+  .profile_page_email_section{
+    display: flex;
+    flex-direction: column;
+  }
+  .user-card,
+  .profile_page_name,
+  .profile_page_adress,
+  .profile_page_username,
+  .profile_page_catchPhrase,
+  .profile_page_email,
+  .profile_page_address,
+  .profile_page_Header {
+    font-size: 14px; /* You can adjust the font size as needed */
+  }
+  .post{
+    margin-bottom: 2%;
+  }
+ 
+}
+

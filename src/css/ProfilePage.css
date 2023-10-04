@@ -1,0 +1,86 @@
+.profile_page_main{
+    padding: 15px;
+    width: 80%;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-top: 2rem;
+    border-radius: 5px;
+    align-items: center;
+    background-color: #ccf5ff;
+}
+.profile_data{
+  display: flex;
+}
+.profile_page_1{
+  padding: 2px;
+  width: 20rem;
+  /* flex-direction: row; */
+}
+.profile_page_name{
+  margin-left: 5%;
+}
+.profile_page_username_section
+{
+  display: flex;
+}
+.profile_page_username{
+  margin-right: 1rem;
+}
+.profile_page_catchPhrase{
+  margin-left: 1rem;
+}
+.profile_page_2{
+  margin-left: 25%;
+  padding: 2px;
+  width: 20rem;
+}
+.profile_page_adress{
+}
+.profile_page_email_section{
+  display: flex;
+}
+
+.profile_page_catchPhrase{
+  margin-left: 1%;
+  margin-right: 2%;
+}
+
+.profile_page_address{
+  margin-left: 1%;
+
+}
+
+.profile_page_post_card{
+    display: flex; 
+    }
+
+.backButton{
+    border: 1px solid black;
+    border-radius: 5px;
+          padding: 0 5px;
+          background: #b3b3dc;
+      }
+      .cursor{
+        cursor: pointer;
+      }
+
+      .profile_page_Header{
+        margin-left: 45%;
+      }
+.post{
+  margin-left: 10%;
+  border: 1px solid black;
+  border-radius: 4px;
+  WIDTH: 10REM;
+  padding: 1rem;
+  background-color: #b3b3dc;
+}      
+.user-profile_page_post_card{
+  display: flex;
+}
+.post-title{
+  margin-left: 35%;
+}
+.post-content{
+  margin-left: 10%;
+}
