@@ -1,4 +1,5 @@
-import { useState } from "react";
+import React, { useState } from "react";
+
 import "./App.css";
 import ProfilePage from "./components/ProfilePage";
 import UserCard from "./components/UserCard";
